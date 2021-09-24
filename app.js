@@ -12,5 +12,4 @@ btn.addEventListener("click", function() {
 
 function getRandomNumber() {
   return Math.floor(Math.random() * colors.length);
-}©
-2021 GitHub, Inc.
+}
